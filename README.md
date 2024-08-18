@@ -52,8 +52,8 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
-   cd spotify-clone
+  https://github.com/Sv26/music-app
+   cd spotify
 ## Install backend dependencies:
 cd backend
 npm install
